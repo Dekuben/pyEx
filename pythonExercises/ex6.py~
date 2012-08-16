@@ -12,7 +12,7 @@ print "I also said: '%s'." % y
 hilarious = False
 jokeEvaluation = "Isn't that joke so funny?! %r"
 
-print jokeEvaluation & hilarious
+print jokeEvaluation % hilarious
 
 w = "This is the left side of..."
 e = "a string with a right side."
