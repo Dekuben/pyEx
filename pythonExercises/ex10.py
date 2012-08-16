@@ -32,5 +32,5 @@ print fatCat
 #\xhh 	Character with hex value hh
 
 while True:
-for i in ["/","-","|","\\","|"]:
-print "%s\r" % i,
+    for i in ["/","-","|","\\","|"]:
+        print "%s\r" % i,
