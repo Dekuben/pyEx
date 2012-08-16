@@ -13,5 +13,5 @@ end9 = "r"
 end10 = "g"
 
 #try removing comma at the end of next line for a laugh
-print end1 + end2 + end3 + end3 + end5 + end3,
+print end1 + end2 + end3 + end3 + end5 + end3
 print end7 + end8 + end9 + end10 + end3 + end9
