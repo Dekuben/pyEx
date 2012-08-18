@@ -1,4 +1,4 @@
-def break_words(stuff):
+def break_words(words):
     """This function will break up words for us."""
     words = stuff.split(' ')
     return words
